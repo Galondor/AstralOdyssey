@@ -1,9 +1,5 @@
-# How Do I Download & Play The Game? (First Time Installation)
-1. Go to [Latest Release](https://github.com/Galondor/AstralOdyssey/releases/latest) and download the latest `Astral.Odyssey.zip`
-2. Extract `Astral.Odyssey.zip` into a folder
-3. Run the application!
-
-**NOTE: It is recommended to leave the game file inside of it's folder, otherwise the `saves` folder and/or `boot.ser` file could get lost**
+# Installation Guide
+[Installation Guide](https://github.com/Galondor/AstralOdyssey/blob/main/Installation.md)
 
 ---
 # How Do I Update The Game? (Existing Installation)
