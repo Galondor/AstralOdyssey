@@ -1,3 +1,5 @@
+### At the time of writting, auto updating **IS** on the to-do list **BUT** it's not 100% coming.
+
 1. Before we begin, go to the location where your game is installed on your computer. It should look something like this:
 ![Screenshot 2023-12-03 131046](https://github.com/Galondor/AstralOdyssey/assets/103967053/97b14e6f-d129-4e22-99c9-c84a51328604)
 
@@ -24,15 +26,16 @@ The folder should look something like this, click `Select Folder` when ready
 6. B: Click `Extract` <br>
 ![Screenshot 2023-12-03 131929](https://github.com/Galondor/AstralOdyssey/assets/103967053/466c69f6-e997-42c9-bf8b-c4fa7066f62d)
 
-7. Now everything should look exactly how it did when we started!  
+7. Now everything should look exactly how it did when we started! <br>
+**Note: at this point it is recommended to delete the zip file downloaded earlier**  
 ![Screenshot 2023-12-03 132441](https://github.com/Galondor/AstralOdyssey/assets/103967053/ce649701-1c07-4a72-a195-3ba04462ebdc)
 
 ### At the time of writting these next steps are required, but I am working on a solution for this!
-7. The first time you open up the game this warning will display, click on `More info`
+8. The first time you open up the game this warning will display, click on `More info`
 ![Screenshot 2023-12-03 125844](https://github.com/Galondor/AstralOdyssey/assets/103967053/0d1931b2-588f-4ed6-ab6a-9abd28602e66)
 
-8. Then you should be able to click `Run anyway`
+9. Then you should be able to click `Run anyway`
 ![Screenshot 2023-12-03 125916](https://github.com/Galondor/AstralOdyssey/assets/103967053/502eb61d-25a5-4d13-910d-73a20718cfc2)
 
-9. Finally you can play!
+10. Finally you can play!
 ![Screenshot 2023-12-03 130258](https://github.com/Galondor/AstralOdyssey/assets/103967053/e3f59061-1ce6-43a0-ba5b-3071503346d4)
