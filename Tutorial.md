@@ -93,12 +93,14 @@ Traveling is where everyhing happens. Everytime you travel there are 15-17 diffe
 To further break it down, there is `Standard Traveling` and `Regional Traveling`. Obviously it's random but  <br>
 depending on the outcome you may be encounter one of the 10 Standard Cases or 5 Regional Cases, every region is unique and offers different challenges and rewards! <br>
 Regions: Forest, Swamp, Badlands, OCean, Volcano, Mountain, Desert, Warzone. <br>
+Each time you travel it'll cost you 1 Stamina, if you run out of Stamina you can't travel. <br>
+To regain Stamina you can use potions or rest. <br>
 *Traveling is jam packed with quests, secrets, and easter eggs so be on the look out!* <br>
 
 # Town
 ![Screenshot 2023-12-04 110708](https://github.com/Galondor/AstralOdyssey/assets/103967053/7209c371-71e8-416f-8843-cee001f45811) <br>
 `Shop` Where you can buy materials & potions, and sell gear! <br>
-`Inn` Every 5 minutes you can rest here for free, or pay 500g to rest. <br>
+`Inn` Every 5 minutes you can rest here for free, or pay 500g to rest. Resting will completely refill your Health, Stamina, & Power! <br>
 `Blacksmith` Will have it's own section but you can: Buy armor & weapons, Upgrade armor & weapons, and Forge armor, weapons & other items <br>
 `Bank` Where you can deposit an withdraw gold. <br>
 `Caravan` You can reduce the effects of *rng* and travel to any of the regions... For a price of course! <br>
@@ -132,9 +134,9 @@ Skills can technically be leveled up infinitely. (Goodluck getting that many ski
 
 ## Stats
 ![Screenshot 2023-12-04 115421](https://github.com/Galondor/AstralOdyssey/assets/103967053/89db1fb0-e598-43c6-a4b6-6e3f102b498f) <br>
-`Health` Current / Max <br>
-`Stamina` Current / Max <br>
-`Power` Current / Max <br>
+`Health` Current / Max <br> Needed to live
+`Stamina` Current / Max <br> Needed to travel
+`Power` Current / Max <br> Needed to use skills
 `Experience` Current / Needed to Level Up <br>
 `Strength` The primary stat for the Knight class, every 3 points results in increased attack <br>
 `Dexterity` The primary stat for the Thief class, every 3 points results in increased attack <br>
