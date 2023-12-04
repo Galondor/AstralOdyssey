@@ -15,12 +15,12 @@ I've attempted to break things down into sections and sub-sections for easier ac
 [Town](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#town)  
 [Character](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#character)  
 [Inventory](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#inventory)  
-[Skills](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#skills)
+[Skills](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#skills)  
 [Stats](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#stats)  
 [Blacksmith](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#blacksmith)  
 [Upgrading](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#upgrading)  
 [Combat](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#combat)  
-[Advanced](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#advance)  
+[Advanced](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#advanced)  
 [Difficulty](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#difficulties)
 
 # The Basics
