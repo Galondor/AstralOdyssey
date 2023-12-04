@@ -2,6 +2,9 @@
 I appreciate your interest in the game, this "tutorial" will be long but very thorough. <br>
 I've attempted to break things down into sections and sub-sections for easier access.
 
+# Table of Contents
+[The Basics](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#the-basics)
+
 # The Basics
 ## Choices & Input
 The game is 99.8% based on numerical inputs (Ex: 1, 23, 206, 2020) followed by `Enter`
@@ -48,19 +51,38 @@ For new players play with `Auto Save AGGRESSIVE` <br>
 Unless you have a reason you should keep `Auto File Cleanup` ON <br>
 Try out `Simplified Gear View` OFF at least once to see if you like view or not <br>
 
-## Help
-
-## Leveling
-
 ## Save Files
 ![Screenshot 2023-12-04 023640](https://github.com/Galondor/AstralOdyssey/assets/103967053/5b4ed580-ffe4-4908-8e68-213261a8fc08) <br>
 `[M] & [A]` Saves tagged with M are manually saved files and saves tagged with A are auto saved files. <br>
-File Name Structure: [Save Type] + Character Name + Level at time of save + Class + | Save Date & Time
-
+File Name Structure: [Save Type] + Character Name + Level at time of save + Class + | Save Date & Time <br>
 
 # Traveling
+Traveling is where everyhing happens. Everytime you travel there are 15-17 different things that can happen. I like to call these `Travel Cases` <br>
+To further break it down, there is `Standard Traveling` and `Regional Traveling`. Obviously it's random but  <br>
+depending on the outcome you may be encounter one of the 10 Standard Cases or 5 Regional Cases, every region is unique and offers different challenges and rewards! <br>
+Regions: Forest, Swamp, Badlands, OCean, Volcano, Mountain, Desert, Warzone. <br>
+*Traveling is jam packed with quests, secrets, and easter eggs so be on the look out!* <br>
+
 # Town
+![Screenshot 2023-12-04 110708](https://github.com/Galondor/AstralOdyssey/assets/103967053/7209c371-71e8-416f-8843-cee001f45811) <br>
+`Shop` Where you can buy & sell items & materials! <br>
+`Inn` Every 5 minutes you can rest here for free, or pay 500g to rest. <br>
+`Blacksmith` Will have it's own section but you can: Buy armor & weapons, Upgrade armor & weapons, and Forge armor, weapons & other items <br>
+`Bank` Where you can deposit an withdraw gold. <br>
+`Caravan` You can reduce the effects of *rng* and travel to any of the regions... For a price of course! <br>
+`Battle Tower` Mid game content that will net you a lot of gold and experience, as well as some `Skill Points` <br>
+`Dungeon` Mid-End game content, this will be further explained in it's own section. <br>
+`Arena` You can fight numerous enemies in a row for increasing rewards! <br>
+`Abandoned Church` It's abandoned... <br>
+
 # Character
+![Screenshot 2023-12-04 111826](https://github.com/Galondor/AstralOdyssey/assets/103967053/50ea330a-a215-4669-a621-35dff0540e6e) <br>
+`Stats` Displays all of your characters vital statistics like health, experience, attack etc <br>
+`Inventory` Opens up our inventory and prompts you to select a category <br>
+`Equipment` Displays all of your currently equipped gear, Weapon, Armor, Accessories, Rings <br>
+`Additional Stats` Less important statistics like Play Time <br>
+`Use Progression Points` Allows you to use your Stat & Attribute points <br>
+`Skills` Where you use Skill Points to unlock and upgrade your Class skills <br>
 
 
 
