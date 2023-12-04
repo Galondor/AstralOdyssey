@@ -50,11 +50,25 @@ I won't reiterate the settings, the picture explains everything. These are also 
 For new players play with `Auto Save AGGRESSIVE` <br>
 Unless you have a reason you should keep `Auto File Cleanup` ON <br>
 Try out `Simplified Gear View` OFF at least once to see if you like view or not <br>
+**Simplified Gear View ON: <br>**
+![Screenshot 2023-12-04 114350](https://github.com/Galondor/AstralOdyssey/assets/103967053/d24db74a-743d-411a-8a76-c1fe14068ca9) <br>
+**Simplified Gear View OFF: <br>**
+![Screenshot 2023-12-04 114503](https://github.com/Galondor/AstralOdyssey/assets/103967053/fc1f9113-dcff-4ad5-ad4a-b42596d208a1) <br>
 
 ## Save Files
 ![Screenshot 2023-12-04 023640](https://github.com/Galondor/AstralOdyssey/assets/103967053/5b4ed580-ffe4-4908-8e68-213261a8fc08) <br>
 `[M] & [A]` Saves tagged with M are manually saved files and saves tagged with A are auto saved files. <br>
 File Name Structure: [Save Type] + Character Name + Level at time of save + Class + | Save Date & Time <br>
+
+## Level Up <br>
+Everytime you level up you gain: <br>
+3 Stat Points <br>
+2 Attribute Points <br>
+1 Skill Point <br>
+Max Health +55 <br>
+Max Stamina + 2 <br>
+Max Power + 3 <br>
+Defense + 1 <br>
 
 # Traveling
 Traveling is where everyhing happens. Everytime you travel there are 15-17 different things that can happen. I like to call these `Travel Cases` <br>
@@ -65,15 +79,15 @@ Regions: Forest, Swamp, Badlands, OCean, Volcano, Mountain, Desert, Warzone. <br
 
 # Town
 ![Screenshot 2023-12-04 110708](https://github.com/Galondor/AstralOdyssey/assets/103967053/7209c371-71e8-416f-8843-cee001f45811) <br>
-`Shop` Where you can buy & sell items & materials! <br>
+`Shop` Where you can buy materials & potions, and sell gear! <br>
 `Inn` Every 5 minutes you can rest here for free, or pay 500g to rest. <br>
 `Blacksmith` Will have it's own section but you can: Buy armor & weapons, Upgrade armor & weapons, and Forge armor, weapons & other items <br>
 `Bank` Where you can deposit an withdraw gold. <br>
 `Caravan` You can reduce the effects of *rng* and travel to any of the regions... For a price of course! <br>
 `Battle Tower` Mid game content that will net you a lot of gold and experience, as well as some `Skill Points` <br>
-`Dungeon` Mid-End game content, this will be further explained in it's own section. <br>
+`Dungeon` Mid-End game content, this will NOT be futher explained... Good luck! :) <br>
 `Arena` You can fight numerous enemies in a row for increasing rewards! <br>
-`Abandoned Church` It's abandoned... <br>
+`Abandoned Church` It's abandoned... Or is it? <br>
 
 # Character
 ![Screenshot 2023-12-04 111826](https://github.com/Galondor/AstralOdyssey/assets/103967053/50ea330a-a215-4669-a621-35dff0540e6e) <br>
@@ -83,6 +97,80 @@ Regions: Forest, Swamp, Badlands, OCean, Volcano, Mountain, Desert, Warzone. <br
 `Additional Stats` Less important statistics like Play Time <br>
 `Use Progression Points` Allows you to use your Stat & Attribute points <br>
 `Skills` Where you use Skill Points to unlock and upgrade your Class skills <br>
+
+## Inventory
+![Screenshot 2023-12-04 112742](https://github.com/Galondor/AstralOdyssey/assets/103967053/fa775fe1-62a8-4781-a92e-e3b6d8e90f8d) <br>
+`Potions` Where you can view and use your potions <br>
+`Gear` Where you can view and equip/unequip your gear <br>
+`Materials` Where you can view your materials <br>
+
+## Stats
+![Screenshot 2023-12-04 115421](https://github.com/Galondor/AstralOdyssey/assets/103967053/89db1fb0-e598-43c6-a4b6-6e3f102b498f) <br>
+`Health` Current / Max <br>
+`Stamina` Current / Max <br>
+`Power` Current / Max <br>
+`Experience` Current / Needed to Level Up <br>
+`Strength` The primary stat for the Knight class, every 3 points results in increased attack <br>
+`Dexterity` The primary stat for the Thief class, every 3 points results in increased attack <br>
+`Intelligence` The primary stat for the Mage class, every 3 points results in increased attack <br>
+`Vitality` Every point increases Max Health by 5 <br>
+`Resilience` Every point increases Defense by 1 <br>
+`Attack` Minimum Damage Roll / Maximum Damage Roll <br>
+`Defense` The amount of damage taken off the top from enemy attacks <br>
+`Blessings` Displays all the blessings you currently have <br>
+`Skills` Displays all the skills you currently have <br>
+
+## Blacksmith
+### Buying Armor
+**Note at the time of writing there is no timed shop reset, every time you view the armor or weapons for sale new ones will generate** <br>
+3 Armors are generated around your current level and can be purchased. <br>
+![Screenshot 2023-12-04 113036](https://github.com/Galondor/AstralOdyssey/assets/103967053/2b07f014-8b07-4d09-ba1d-a48e4b78f452) <br>
+
+### Buying Weapons 
+5 Weapons are generated around your current level and cab be purchased. <br>
+![Screenshot 2023-12-04 113209](https://github.com/Galondor/AstralOdyssey/assets/103967053/333456f8-d6a0-4179-8400-9b68bbc9fea0) <br>
+
+### Upgrading
+**Note this is the same for Armor. Rings/Accessories CANNOT be upgraded** <br>
+![Screenshot 2023-12-04 113705](https://github.com/Galondor/AstralOdyssey/assets/103967053/8525b332-a487-4657-8ee9-c23b4c5d6adc) <br>
+`Upgrade` Will upgrade the gear 1 time as long as you have the required gold. Weapons & Armors max out at 10 Upgrades. <br>
+`Upgrade As Much As Possible` Will upgrade the gear as many times as possible with your currently held gold. <br>
+**Maxed out gear will have an ++ at the end of it's name** <br>
+![Screenshot 2023-12-04 113913](https://github.com/Galondor/AstralOdyssey/assets/103967053/2f217bfe-b3b5-4696-a68e-d58b3c9b104f) <br>
+
+### Forging
+I won't go over forging because the in-game menus explain it all very clearly. :D
+
+# Combat
+This is an RPG afterall, fighting is the main source of well everything in the game. <br>
+![image](https://github.com/Galondor/AstralOdyssey/assets/103967053/d25e208c-f3bc-41f8-b4f0-336d48e1025a) <br>
+Combat is turned based always starting with the player, some skills and other variables can change the flow of combat dramatically. <br>
+`Attack` A random number is rolled between you Minimum Attack & Maximum Attack values and that's how much damage you will do to the enemy - their Defense value <br>
+`Skills` If you have any, this is where you can use them during combat <br>
+`Potions` DOES NOT TAKE A TURN, where you can consume potions <br>
+`Brace` ENDS TURN, you brace for impact and reduce incoming damage by 50% during the next attack against you <br>
+`Run` 50% Chance to escape combat, if you fail your turn ends <br>
+![Screenshot 2023-12-04 120444](https://github.com/Galondor/AstralOdyssey/assets/103967053/58128bd7-3918-4650-bd3b-8837ecce5a4d) <br>
+Defeating enemies will almost always net you Experience and Gold! <br>
+When you see the `[+]` symbol that means something has been added to your inventory, typically Materials or Gear. <br>
+
+# Advanced
+Time for some more advanced topics.
+
+## Time
+Every 24 Real Minutes = 1 In-Game Day <br>
+![Screenshot 2023-12-04 114801](https://github.com/Galondor/AstralOdyssey/assets/103967053/0edcad33-8c93-4db8-bd09-c32e5375c008) <br>
+![Screenshot 2023-12-04 114907](https://github.com/Galondor/AstralOdyssey/assets/103967053/dc573ab5-03f3-420a-af1e-ff4722d06b37) <br>
+
+## Status Effects
+`BLEEDING` Bleed doesn't end until combat ends, every turn the enemy will take 10% of their max health as damage <br>
+`SOAKED` Increases the potency of some skills... <br>
+
+## Blessings
+You can obtain blessings in various ways, unfortunately I won't spill on any. <br>
+I will say that most times you can obtain them through Traveling. <br>
+Typically Blessings have powerful increases to your stats, some Blessings even give you new skills! <br>
+There are even Blessings that unlock other things... <br>
 
 
 
