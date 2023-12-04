@@ -170,7 +170,16 @@ Every 24 Real Minutes = 1 In-Game Day <br>
 You can obtain blessings in various ways, unfortunately I won't spill on any. <br>
 I will say that most times you can obtain them through Traveling. <br>
 Typically Blessings have powerful increases to your stats, some Blessings even give you new skills! <br>
-There are even Blessings that unlock other things... <br>
+Some Blessings are required for quests and other things... <br>
+
+## Gear Rarities: <br>
+`Poor` 60% Chance <br>
+`Quality` 25% Chance <br>
+`Pristine` 10% Chance <br>
+`Flawless` 4% Chance <br>
+`Perfect` 1% Chance <br>
+Depending on the piece of gear the rarity will increase certain stats.
+
 
 
 
