@@ -3,7 +3,25 @@ I appreciate your interest in the game, this "tutorial" will be long but very th
 I've attempted to break things down into sections and sub-sections for easier access.
 
 # Table of Contents
-[The Basics](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#the-basics)
+[The Basics](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#the-basics)  
+[Input](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#choices--input)  
+[Main Menu](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#main-menu)  
+[Leveling Method](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#leveling-method-important)  
+[Action Menu](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#action-menu)  
+[Settings](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#settings)  
+[Save Files](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#save-files)  
+[Level Up](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#level-up-)  
+[Travel](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#traveling)  
+[Town](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#town)  
+[Character](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#character)  
+[Inventory](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#inventory)  
+[Skills](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#skills)
+[Stats](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#stats)  
+[Blacksmith](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#blacksmith)  
+[Upgrading](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#upgrading)  
+[Combat](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#combat)  
+[Advanced](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#advance)  
+[Difficulty](https://github.com/Galondor/AstralOdyssey/blob/main/Tutorial.md#difficulties)
 
 # The Basics
 ## Choices & Input
@@ -104,6 +122,14 @@ Regions: Forest, Swamp, Badlands, OCean, Volcano, Mountain, Desert, Warzone. <br
 `Gear` Where you can view and equip/unequip your gear <br>
 `Materials` Where you can view your materials <br>
 
+## Skills
+Class skills are unlocked at level 2. <br>
+![Screenshot 2023-12-04 143227](https://github.com/Galondor/AstralOdyssey/assets/103967053/b5fa2453-83c3-41d2-a091-6fdc5e0732fe) <br>
+You must unlock the skill before you can upgrade it! <br>
+![Screenshot 2023-12-04 143240](https://github.com/Galondor/AstralOdyssey/assets/103967053/d311041e-dfcc-4911-937d-525e5ce469bf) <br>
+Skills can technically be leveled up infinitely. (Goodluck getting that many skill points tho) <br>
+![Screenshot 2023-12-04 143250](https://github.com/Galondor/AstralOdyssey/assets/103967053/85453250-766d-4f6b-95f9-6901042392b4) <br>
+
 ## Stats
 ![Screenshot 2023-12-04 115421](https://github.com/Galondor/AstralOdyssey/assets/103967053/89db1fb0-e598-43c6-a4b6-6e3f102b498f) <br>
 `Health` Current / Max <br>
@@ -179,6 +205,11 @@ Some Blessings are required for quests and other things... <br>
 `Flawless` 4% Chance <br>
 `Perfect` 1% Chance <br>
 Depending on the piece of gear the rarity will increase certain stats.
+
+## Difficulties
+You get the idea. <br>
+![Screenshot 2023-12-04 143832](https://github.com/Galondor/AstralOdyssey/assets/103967053/f90e31d2-bbd2-4a53-b05c-8e0abc26537d)
+
 
 
 
