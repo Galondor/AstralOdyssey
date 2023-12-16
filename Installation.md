@@ -1,11 +1,11 @@
-# How Do I Download & Play The Game? (First Time Installation)
+# How Do I Download and Play the Game? (First Time Installation)
 
 1. Go to [Latest Release](https://github.com/Galondor/AstralOdyssey/releases/latest) and download the latest `Astral.Odyssey.zip`
 ![Screenshot 2023-12-03 123605](https://github.com/Galondor/AstralOdyssey/assets/103967053/cfff6df8-5d0c-4431-9c97-df2c30bc152d)
 The zipped file should appear in your `Downloads`
 ![Screenshot 2023-12-03 124107](https://github.com/Galondor/AstralOdyssey/assets/103967053/eeb14863-2b55-4d5d-a4de-975c10f75366)
 
-2. Right click the file and click `Extract All...`
+2. Right-click the file and click `Extract All...`
 ![Screenshot 2023-12-03 124558](https://github.com/Galondor/AstralOdyssey/assets/103967053/d531151f-4d5a-4ee6-8982-58332ccd6427)
 
 3. Click `Browse...` and decide where you want the game files to be located on your computer
@@ -25,7 +25,7 @@ The folder named `Astral Odyssey` **With NO PERIOD** is the main folder for the 
 
 **Note: This Application file will be how you launch the game**
 
-### At the time of writting these next steps are required, but I am working on a solution for this!
+### At the time of writing the game isn't Signed, I can't sign it. The game contains NO viruses.
 7. The first time you open up the game this warning will display, click on `More info`
 ![Screenshot 2023-12-03 125844](https://github.com/Galondor/AstralOdyssey/assets/103967053/0d1931b2-588f-4ed6-ab6a-9abd28602e66)
 
